@@ -1,0 +1,43 @@
+/*FONTS*/
+
+@font-face {
+  font-family: "outfit";
+  src: url("../fonts/Outfit/static/Outfit-Light.ttf") format("truetype");
+  font-weight: light;
+  font-style: light;
+}
+
+@font-face {
+  font-family: "outfit";
+  src: url("../fonts/Outfit/static/Outfit-Medium.ttf") format("truetype");
+  font-weight: medium;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: "outfit";
+  src: url("../fonts/Outfit/static/Outfit-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("../fonts/Urbanist/static/Urbanist-Light.ttf") format("truetype");
+  font-weight: light;
+  font-style: light;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("../fonts/Urbanist/static/Urbanist-Medium.ttf") format("truetype");
+  font-weight: medium;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("../fonts/Urbanist/static/Urbanist-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: bold;
+}
