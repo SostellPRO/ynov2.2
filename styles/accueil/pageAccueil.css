@@ -1,0 +1,20 @@
+.accueil {
+  background: linear-gradient(
+    45deg,
+    var(--colorv4) 0%,
+    var(--colorv4) 20%,
+    var(--colorv5) 60%,
+    var(--colorv6) 100%
+  );
+}
+
+.accueil__haut {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+.header__nav-ul {
+  display: flex;
+}
